@@ -9,15 +9,15 @@ The results of each trail will be stored in a dictionary, in which at the end, w
 the result of the trails in.
 
 ## Getting Started
-This program is written on Pycharm IDE using Python3.
+This program is written on Pycharm IDE using Python3. <br />
 
 ## Installing
-Pycharm IDE: https://www.jetbrains.com/pycharm/ 
-Python3: https://www.python.org/downloads/
+Pycharm IDE: https://www.jetbrains.com/pycharm/ <br />
+Python3: https://www.python.org/downloads/ <br />
 
-Packages:
-random.py
-xlwt.py
+Packages: <br />
+random.py <br />
+xlwt.py <br />
 
 ## License 
 This project is licensed under the MIT License - see https://opensource.org/licenses/MIT for details
